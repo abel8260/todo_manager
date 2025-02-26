@@ -1,4 +1,4 @@
-# todo_manager
+# todo_manager(Alpha version)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/abel8260/todo_manager)](https://github.com/abel8260/todo_manager)
 [![GitHub issues](https://img.shields.io/github/issues/abel8260/todo_manager)](https://github.com/abel8260/todo_manager/issues)
